@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Assignment repositories will be public after the due date. 😊
+We are a small group of CS students at the University of Toronto.
